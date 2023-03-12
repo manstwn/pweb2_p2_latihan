@@ -9,7 +9,5 @@ Iman Setiawan
 Teknik Informatika
 
 Berikut latihan membuat web dengan css
-```
 ![](preview.png)
-```
 
