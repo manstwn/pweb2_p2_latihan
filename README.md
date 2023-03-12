@@ -9,6 +9,6 @@ Iman Setiawan
 Teknik Informatika
 
 Berikut latihan membuat web dengan css
-\Bisa di akses contoh web langsung di https://manstwn.github.io/pweb2_p2_latihan/
+/Bisa di akses contoh web langsung di https://manstwn.github.io/pweb2_p2_latihan/
 ![](preview.png)
 
